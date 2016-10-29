@@ -1,0 +1,28 @@
+<div class="container block-bg">
+    <div class="row">
+        <div class="col-sm-12" style="background: url(images/header_cbg.png) center no-repeat;background-size: cover;
+    padding-top: 2%;height: 445px;padding-left: 39px;">
+            <div class="col-sm-2">
+                <a href="/" title="Tea Wala">
+                    <img src="images/logo.png">
+                </a>
+            </div>
+            <div class="col-sm-3 col-sm-offset-1">
+                <div>
+                    <img src="images/slogan.png">
+                </div>
+                <div style="padding-top: 40%;">
+                    <h4><strong><span style="color: #153783">THE COMPANY </span>STORY</strong></h4>
+                    <p class="wow fadeInUp animated" data-wow-duration="1s" data-wow-delay=".4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInUp;">Limtex group of Industries have built an impressive record of success in sales and profitability ever since its inception in year 1977..<a href="">more</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12">
+            <div ng-show="state.current.name == 'main'">
+                <div ng-include="'views/home.html'"></div>
+            </div>
+            <div ui-view>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,410 @@
+{
+  "estate": [
+    {
+      "compy": "Riverview Tea Estate",
+      "address": [
+        {
+          "key": "P.O",
+          "value": "Sujali"
+        },
+        {
+          "key": "P.S",
+          "value": "Islampur"
+        },
+        {
+          "key": "Dist",
+          "value": "North Dinajpur Dinajpur (W.B)"
+        },
+        {
+          "key": "Garden Area",
+          "value": "525 acres"
+        },
+        {
+          "key": "Leaf",
+          "value": "35 lacs"
+        },
+        {
+          "key": "Tea",
+          "value": "8 lacs kgs"
+        },
+        {
+          "key": "Age of Bushes",
+          "value": "0-15 years"
+        },
+        {
+          "key": "Labour",
+          "value": "800 workers"
+        }
+      ]
+    },
+    {
+      "compy": "Green Developers Pvt Ltd",
+      "address": [
+        {
+          "key": "P.O",
+          "value": "Jaktagaon"
+        },
+        {
+          "key": "P.S",
+          "value": "Islampur"
+        },
+        {
+          "key": "Dist",
+          "value": "North Dinajpur Dinajpur (W.B)"
+        },
+        {
+          "key": "Garden Area",
+          "value": "125 acres"
+        },
+        {
+          "key": "Leaf",
+          "value": "9 lacs"
+        },
+        {
+          "key": "Tea",
+          "value": "2.5 lacs kgs"
+        },
+        {
+          "key": "Age of Bushes",
+          "value": "0-10 years"
+        },
+        {
+          "key": "Labour",
+          "value": "200 workers"
+        }
+      ]
+    },
+    {
+      "compy": "Satyanarayan Tea Estate",
+      "address": [
+        {
+          "key": "P.O",
+          "value": "Naharkatia"
+        },
+        {
+          "key": "Dist",
+          "value": "Assam"
+        },
+        {
+          "key": "Garden Area",
+          "value": "550 acres"
+        },
+        {
+          "key": "Leaf",
+          "value": "40 lacs"
+        },
+        {
+          "key": "Tea",
+          "value": "9 lacs kgs"
+        },
+        {
+          "key": "Age of Bushes",
+          "value": "0-50 years"
+        },
+        {
+          "key": "Labour",
+          "value": "900 workers"
+        }
+      ]
+    }
+  ],
+  "factory": [
+    {
+      "compy": "Limtex Tea & Industries Ltd ",
+      "address": [
+        {
+          "key": "P.O",
+          "value": "Bidhanagar"
+        },
+        {
+          "key": "District",
+          "value": "Darjeeling "
+        },
+        {
+          "key": "Year of Establishment",
+          "value": "1998"
+        },
+        {
+          "key": "Factory Area",
+          "value": "6 acres "
+        },
+        {
+          "key": "Workers ",
+          "value": "300 "
+        },
+        {
+          "key": "Annual Production ",
+          "value": "3 million kgs "
+        }
+      ]
+    },
+    {
+      "compy": "Limtex Agri Udyog Ltd ",
+      "address": [
+        {
+          "key": "P.O",
+          "value": "Bidhanagar "
+        },
+        {
+          "key": "District ",
+          "value": "Darjeeling "
+        },
+        {
+          "key": "Year of Establishment ",
+          "value": "2004 "
+        },
+        {
+          "key": "Factory Area ",
+          "value": "5 acres"
+        },
+        {
+          "key": "Workers ",
+          "value": " 300 "
+        },
+        {
+          "key": "Annual Production ",
+          "value": " 3 million kgs "
+        }
+      ]
+    },
+    {
+      "compy": "Sujali Tea & Industries Ltd.(Satyanarayan Tea Estate)",
+      "address": [
+        {
+          "key": "P.O",
+          "value": "Naharkatia "
+        },
+        {
+          "key": "District ",
+          "value": "Assam"
+        },
+        {
+          "key": "Year of Establishment ",
+          "value": "2003 "
+        },
+        {
+          "key": "Factory Area",
+          "value": "6 acres"
+        },
+        {
+          "key": "Workers",
+          "value": "300"
+        },
+        {
+          "key": "Annual Production",
+          "value": "3.5 million kgs"
+        }
+      ]
+    },
+    {
+      "compy": "Satyanarayan Tea Co. Ltd.",
+      "address": [
+        {
+          "key": "P.O",
+          "value": "Sujali "
+        },
+        {
+          "key": "District ",
+          "value": "North Dinajpur"
+        },
+        {
+          "key": "Factory Area",
+          "value": "6 acres"
+        },
+        {
+          "key": "Workers",
+          "value": "300"
+        },
+        {
+          "key": "Annual Production",
+          "value": "3.5 million kgs"
+        }
+      ]
+    },
+    {
+      "compy": "Sujali Tea & Industries Ltd ",
+      "address": [
+        {
+          "key": "P.O",
+          "value": "Sujali"
+        },
+        {
+          "key": "District",
+          "value": "North Dinajpur"
+        },
+        {
+          "key": "Factory Area",
+          "value": "6 acres"
+        },
+        {
+          "key": "Workers",
+          "value": "300"
+        },
+        {
+          "key": "Annual Production",
+          "value": "3.5 million kgs"
+        }
+      ]
+    }
+  ],
+  "teafact": [
+    {
+      "title": "How much caffeine is there in tea ?",
+      "desc": "<p>Caffeine content in tea is negligible, when compared with most carbonated beverages, coffee etc. The human body requires a certain amount of caffeine and research indicates that upto 10 - 12 cups of tea daily, will not have any detrimental effect on the body. The species or the variety of the tea plant determines content of caffeine in tea, as it is a genetic feature. Camellia Sinensis, the variety that is grown in Sri Lanka has caffeine levels of approximately 2.5 - 4%. However the distribution of caffeine in the plant depends the part of the plant it is derived from.</p><p><strong>For example:</strong> </br> Bud 4.70 % </br> First leaf 4.20 % </br> Second Leaf 3.50 % </br> Third Leaf 2.90 % </br> Upper stem 2.50 % </br> Lower stem 1.40 % </p><p>Caffeine is one of the three Methylxanthines in tea and represents the bulk of this component. As caffeine is a water-soluble compound approximately 80% of caffeine is extracted during the brewing process. Caffeine content in brewed tea varies depending upon the blend, the brewing time and the brewing method. Research has revealed that a 170- ml (6-oz) serving of tea contains, on average 34 mg of caffeine in comparison to 99 mg of caffeine in a 170 ml serving of brewed coffee and 37mg in 56g of a dark chocolate bar.</p > "
+    },
+    {
+      "title": "How much caffeine is considered safe ?",
+      "desc": "<p>The Food Guide to healthy eating recommends caffeine consumption in moderation. According to the current findings for most people an intake of caffeine up to 400-450 mg per day does not increase the risk of heart disease, hypertension or have an adverse effect on pregnancy or the foetus. This level of caffeine is equivalent to approximately 10 to 12 cups (170 ml) of tea per day.</p>"
+    },
+    {
+      "title": "Does green tea have the same Caffeine level as black tea ?",
+      "desc": "<p>Green tea, as well as Oolong tea &amp; Black tea, are produced from the herb Camellia Sinensis. They all contain the same amount of caffeine. Caffeine content in a cup of tea is 2.5% to 4%, which is about a third of that in coffee. It is claimed that 80% of the caffeine in tea remains unabsorbed by the human body.</p>"
+    },
+    {
+      "title": "Why should one never reboil water when brewing tea ?",
+      "desc": "<p>Taste, colour and mouthfeel depend on the interaction between the two main components of tea, polyphenols and caffeine. Each component is astringent on its own, but as a complex the astringent character is reduced.</p> <p> Water is known to contain gases absorbed from the air.Carbon dioxide(CO2) gas that is present in water effects the acidity. </p> <p> Acidity of water plays a critical roll in the ionization of tea polyphenols and it contributes to the stability of the above complex. </p> <p> CO2 in water is gradually released during the boiling process.Re - boiling will in fact further reduce CO 2 levels,resulting in a decrease in the acidity.As mentioned above this will effect the caffeine and polyphenol complexion,and bring about changes in the colour as well as the character of the brew. </p> <p> Twice boiled water will therefore affect the taste of a good tea and hence our request that only freshly boiled water is used for brewing Dilmah tea. </p>"
+    },
+    {
+      "title": "Does drinking tea during pregnancy affect the foetus ?",
+      "desc": "<p>Questions surrounding caffeine intake and risk of miscarriage and health of the foetus continue to be raised by pregnant women.</p> <p> A study published in the journal of American Medical Association found no evidence that moderate caffeine use increases the risk of spontaneous abortions,growth retention or account for other factors.Another seven - year epidemiological study on 1,500 women examined the effect of caffeine,during pregnancy as well as on subsequent child development. </p> <p> Caffeine consumption equivalent to approximately 3½ to 5 cups of tea per day had no effect on birth weight,birth length and head circumference of the baby.A follow - up examinations at age 's eight months, four and seven years also revealed no effect of caffeine consumption on the child's motor development or intelligence. </p> <p> A number of factors influence the metabolism of caffeine and the individual 's response to caffeine indigestion. These include pregnancy, age, sex, body weight, diet, exercise, and stress smoking and alcohol consumption.</p > <p> Pregnancy hampers caffeine metabolism.For example,in non pregnant women the break -down of half of the caffeine takes an average of 2.5 - 4.5 hours, 7 hours during mid - pregnancy and 10.5 during the last few weeks of pregnancy.As caffeine retention is longer during pregnancy, women sensitive to caffeine may be affected.As a result a moderate consumption of approximately 3 - 4 cups a day, is recommended for women during pregnancy. </p>"
+    },
+    {
+      "title": "What is decaffeinated tea ?",
+      "desc": "<p>For teas to be labelled decaffeinated, the caffeine content should not exceed 0.4% by dry weight, which is equivalent to approximately 4 mg of caffeine per 170 ml serving.</p> <p> The process of decaffeination extracts the caffeine in tea.The current commercially available methods for decaffeinating black tea are solvent based extraction using ethyl acetate or methylene chloride,and extraction using supercritical(solid) carbon dioxide.All three methods extract caffeine with minimum effect to the quality of tea. </p>"
+    },
+    {
+      "title": "Tannic acid what is it and is it present in tea ?",
+      "desc": "<p>Tannins or tannic acid are not present in tea. Tea polyphenols were formerly referred to as tannins or tannic acids due to the similarities in the chemical structure. This has left many misguided notions about the effect of tea upon the human digestive system. Chemists generally group compounds into 'families' on account of common features in the synthesis of the molecules. For example both strychnine and morphine are alkaloids and have common structural features but the action on the human body is different. Strychnine is a powerful stimulant and morphine a powerful hypnotic.</p> <p> Vegetable tannins are a large chemical family and some of them are loosely called tannic acids.These compounds possess the property of hardening animal tissues and turning hide into.Tea polyphenols on the other hand are called catechins,theaflavins and thearubigens,and are responsible for many of the health benefits associated with tea.Such as anti - hypercholestemic action,anti - hyperglycemic action,fat reduction action,anti - hypertensive action,anti - cancer action and many other health promoting effects.Current scientific literature points to the fact that tea polyphenols are biochemically very different to tannins. </p>"
+    },
+    {
+      "title": "What are the nutritional benefits of tea ?",
+      "desc": "<p>Tea composition varies with climate, season, horticultural practices and variety. Polyphenols are the most important component in tea, as they constitute approximately 36 percent of the dry weight of tea. Other components of fresh green leaf include caffeine, protein and amino acids, carbohydrates, lipids, vitamins and minerals.</p> <p> Green and black tea have similar chemical make - up.The primary difference between the two types lies in the chemical changes that take place during their production.In black tea the plant Polyphenols are oxidized and this is prevented in the manufacture of green tea. </p> <p> One of the most important groups of Polyphenols in tea is the catechins in green tea,  theaflavins and thearubigens in black tea.A variety of physiological effects have been attributed to tea catechins which are currently best known for their antioxidant activities. </p> <p> Black tea is all - natural(non flavoured) and contains no additives.It is virtually calorie - free(1 calorie per 100 ml) and sodium free and is therefore a suitable beverage for individuals on calorie - reduced or low sodium diet.Tea includes fluoride,traces of vitamins A,K,C,B carotene and B vitamins. </p> <p> Average daily consumption of tea in the United Kingdom,3.43 cups(650 ml),provides very few calories and only a small amount of fat,whilst contributing valuable minerals and vitamins to the diet.It provides: </p><p>Over half of the total intake of dietary flavonoids. < ul > < li > Nearly 16 % of the daily requirement of calcium < /li > < li > Almost 10 % of the daily requirement of zinc < /li > < li > Over 10 % of the folic acid need < /li > < li > Around 9 % ,25 % and 6 % of vitamins B1,B2 and B6 respectively. < /li> < /ul > < /p >"
+    },
+    {
+      "title": "Does tea affect the absorption of Iron ?",
+      "desc": "<p>Although concerns have been expressed about consumption of iron, existing research and dietary knowledge indicate that tea is not likely to cause health risk, in individuals consuming a typically Western diet.</p> <p> Dietary iron exists in two forms, heme iron(derived from animal) and non - heme iron(found in plants).The body better absorbs heme iron than non - heme iron.Between 15 - 35 % of heme iron is absorbed, while 2 - 20 % is absorbed of non - heme iron.Non - heme iron is generally modified by other dietary components. </p> <p> Certain components in grain,fruit and vegetables as well as polyphenols in tea reduce the availability of iron to the body.However,studies have shown that tea only decreases iron absorption when it is consumed simultaneously with food containing non - heme iron.Tea drinking between meals has no effect on iron absorption. </p> <p> Moreover the ability of tea polyphenols to decrease iron absorption is reduced by the presence of other dietary constituents particular ascorbic acid(known to increase absorption of non - heme iron) and milk. </p>"
+    },
+    {
+      "title": "What are antioxidants ?",
+      "desc": "Antioxidants are components which help to protect cells from harmful \"free radicals\", known as oxidants. Free radicals occur naturally in the body as a by-product of the respiration process and can bring about cell damage. Antioxidants help to prevent this cell damage, which can contribute to ageing and a number of chronic diseases, including cancer and heart disease and strokes."
+    },
+    {
+      "title": "Are the antioxidants in green and black tea the same ?",
+      "desc": "<p>Green tea and black tea have similar but not identical chemical components. Despite the differences in chemical composition, both contain antioxidants called polyphenols and latest research evidence suggests both have similar biological effects. Green tea contains antioxidant compounds known as catechise while black tea contains theaflavins and thearubigens, which are polymerised from catechins.</p> <p> Green and black tea comes from Camellia sinensis.Green tea is steamed immediately after plucking and retains a lighter colour and flavour.Black tea is allowed to oxidise and is then dried,resulting in a darker leaf colour and a more flavour and aroma. </p>"
+    },
+    {
+      "title": "Can tea be part of a healthy adult´s daily fluid intake ?",
+      "desc": "As brewed tea contains almost 98% water it makes a healthy contribution to the delay fluid balance. Tea contains no additives or artificial colours. Research indicates possible antioxidant benefits so drinking tea can be a calorie-free way to increase intake dietary antioxidants."
+    },
+    {
+      "title": "Does tea reduces the diuretic effect in comparison to coffee ?",
+      "desc": "<p>The diuretic can be attributed to the caffeine present in tea and coffee. Caffeine increases diuretic action on the kidneys, increasing urinary volume and sodium extraction as a result of a decrease in the tubular re-absorption of sodium and water. Coffee contains a higher content of caffeine compared to tea. Research has shown that a 170ml (6-oz) serving of tea contains, on average 34mg of caffeine in comparison to 99 mg of caffeine in 170 ml serving of brewed coffee.</p> <p> As a result the diuretic effect of coffee is greater compared to tea. </p>"
+    },
+    {
+      "title": "Why does tea cloud when it is cooled ?",
+      "desc": "<p>Clouding in tea is a result of the colloidal precipitate that is formed. This is called 'tea cream'. Tea creaming takes place when black tea is cooled below 400 C. A weak complexion is formed between caffeine and polyphenols (theaflavins and thearubigins). The tendency to cream down varies from tea to tea. In black tea without milk complexation and subsequent precipitation that occurs is negligible due to just 4% of caffeine.</p> <p> In tea with milk a similar association takes place between the milk protein casein and various polyphenols.Due to the availability of casein in milk tea the complexion is greater resulting in larger precipitation. </p>"
+    },
+    {
+      "title": "Does the water effect the tea brew ?",
+      "desc": "<p>The water used to brew the tea significantly affects the colour and the taste of a cup of tea. Tea brewed in soft water or permanently hard water (which contains CaSO4) appears brighter than if it is brewed in temporary hard water (that contains Calcium bicarbonate CaCO3).</p> <p> High pH water that contains bicarbonate makes the infusion look darker brown due to the greater ionisation of the tea polyphenols.While lower pH as in lemon tea the infusion turns yellow.As for taste some teas are more suited to softer water such as the orthodox manufactured Assam leaf, while high grown Ceylon and CTC manufactured teas are better with temporary hard water. </p>"
+    },
+    {
+      "title": "What is tea scum or the dark skin on top of the brewed tea ?",
+      "desc": "<p>It is the result of the high molecular weight components which are formed due to the influence of calcium and bicarbonate ions at the liquid water interface. The scum can be removed in two ways</p> < ol ><li> by filtering the calcium ions < /li> < li > by adding acids to covert bicarbonate ions to CO2 </li> < /ol> <p> Very little scum is formed on a cup of very strong tea.As the acidic tea polyphenols themselves partly neutralise the bicarbonate ions.It also should be noted that less than one mg of scum is formed in a cup of tea and it is not known to be harmful to human health. </p>"
+    },
+    {
+      "title": "Can overcooked water effect the quality of tea?",
+      "desc": "<p>Boiling water for too long does dramatically affect the quality of tea. The desirable brisk taste of tea is created by the interaction of two of its main components, caffeine and polyphenols. Each component is harsh on its own but as a complex the compounds moderate each other. Acid levels of water affect the behaviour of these components.</p><p>Water contains minerals and gases absorbed from the earth bed and air. Carbon dioxide absorbed by air makes the water slightly acidic that influence the colour and taste. High temperature changes the acidity of water and the acidity is reduced by gradually driving out carbon-dioxide. Therefore re-boiled water might well brew tea of a different colour and strength and is unsuitable to brew a good cup of tea.</p><p>Herbal Infusions, fruit based tisanes and floral infusions are not tea. There are only three types of tea, black tea, green tea and Oolong tea. In many countries, notably the USA, these infusions are usurping the health and other benefits of tea falsely. We give below a brief introduction to the most popular herbal infusions. Dilmah offers a selection of three herbal infusions, clearly differentiated from Dilmah black and green teas.</p>"
+    },
+    {
+      "title": "Chamomile (Chamomillae romanae)",
+      "desc": "<p>Chamomile herbal infusions are derived from the plant Chamomillae romanae. It is a one-year plant, which reaches a height of approx. 55.cm. Chamomile contains 0.6% - 2.4% essential oils such as angeloyl, methacryl and flavenoids as the main constituents. The white flower heads are mechanically harvested and dried in chambers to manufacture the commercial product.</p> <p>Chamomile was known for its health benefits for centuries and the ancient Egyptians dedicated it to their sun god, and used Chamomile in their aromatherapy. This legacy of Chamomile lives on. Studies have that it is beneficial for complaints such as indigestion, nervousness, depression and headaches.</p><p>In testing its Chamomile based product Kamillosan, the Chemiewerke Hamburg Pharmacy of West Germany found that it reduces gastric acid and helps prevent ulcers. It also promoted tissue regeneration after patients had operations on their intestinal tract and urinary system. Chamomile decreases histamine, implicated in ulcers and the skin swelling, puffy eyes and headaches brought about on by allergies. It is given to children for digestive and hyperactive problems.</p><p>The Greeks named Chamomiles \"kamai melon\" (ground apple) inspired by its distinct apple like fragrance and the Spanish called it Manzanilla or “little apple”.</p>"
+    },
+    {
+      "title": "PEPPERMINT (Mentha piperita L.)",
+      "desc": "<p>Peppermint originated from the Mediterranean but is now cultivated globally in the Balkans, Northern Europe and the USA. It is characterized by its strong aroma. It is a perennial herb with a flat root system. It reaches normally a height of approx. 2-ft and is harvested shortly before blooming. Peppermint contains 0.5 4 % essential oil that includes Menthol and menthol esters.</p><p>Written evidence of old Egypt indicates that Mentha plants were cultivated and exploited for medical use 1,000 years before Christian era. It also shows that Mint plants have represented a valuable object of trade, and was even accepted as tithes to pay taxes due.</p><p>Studies have shown that peppermint tea brings about considerable increase in the production of bile due to the presence of flavonoids. Peppermint leaf or extracts prepared from it are included in many (ca. 50) prepared cholagogues and bile-duct remedies, e.g. Cholagogum Nattermann (capsules, drops), etc. gastrointestinal Remedies (ca 50), e.g. Gastricholan Iberogast Ventrodigest, etc.), liver remedies (more than 10), hypnotics/sedatives (more than 10), e.g. Nerventee Stada, Esberi-Nervin drops, etc., and laxatives.</p>"
+    },
+    {
+      "title": "ROSEHIP & HIBISICUS",
+      "desc": "<p>Usually consists of 70% Hibiscus and 30 % Rosehip. Hibiscus (Hibisci flos) originated in Angola but is now cultivated throughout the tropics. It is an annual herbaceous plant with lobed leaves that grows to a height of 5 m. Flowers with a 5-lobed calyx and divided epicalyx. Hibiscus for infusions is manufactured form the dried calyxes harvested from the fruit of the species.</p><p>It is principally taken as a caffeine-free refreshing drink taken in large amounts because of the plant acids. The plant acids which are difficult to absorb act as a mild laxative.</p><p>Hibiscus has been extensively used in the African Folk medicine. The drug is ascribed, among other things, spasmolytic, antibacterial, cholagogic, diuretic and anthelmintic properties. Studies have shown aqueous extracts of hibiscus flowers relaxes the muscles of the uterus and to lower the blood pressure. </p><p>Rosehip is derived from the plant Rosae pseudofructus. It is a shrub that grows up to a height of 5 m with thorn branches with flowers close to 5 cm in diameter with five petals. The drug consists of the dried hypanthia from various species of the genus Rosa with the fruit enclosed in them. Rosehip is native to Europe, Western and Central Asia, and North Africa but now it is cultivated in Chile, Bulgaria, Romania, China and Hungary. It was used in folk medicine as a result of its diuretic and laxative action due to the pectin and the plant acid content. Due to its high content of vitamin C Rosehip are used as breakfast teas.</p>"
+    },
+    {
+      "title": "Green Tea, Oolong tea, Black tea, Decaffeinated, Green tea component of Jasmine tea and Organic tea are derived from the tea plant, Camellia sinensis.",
+      "desc": "<p>Jasmine (Jasminum officinale)</p><p>Composition includes 98% Green tea (Camellia sinensis) and 2% Jasmine flowers.</p></br></br><p>The manufacture of organic tea is carried-out without the addition of Chemical fertiliser, Pesticides and Insecticides as a result the product doesn't contain chemical residues which can bring about health effects.</p>"
+    }
+  ],
+  "recipse": {
+    "tea": [
+      {
+        "title": "Jasmine Tea Liqueur",
+        "desc": "<p>Ingredients:</p><p>2 tsps of masala tea,<br>1 pint dark rum,<br> 1/2 cup jasmine tea,<br> 1 cup sugar syrup</p><p>Procedure:</p><p>Steep the tea in the rum for 24 hours, and remove. Make the sugar syrup by boiling 1 cup of sugar in 1/2 cup of water. When the syrup cools, add to the rum. It's ready to drink immediately.</p>"
+      },
+      {
+        "title": "Strawberry Iced Tea Fizz",
+        "desc": "<p>Ingredients:</p><p>1 pint fresh strawberries stemmed and sliced,<br>1/2 cup sugar,<br>5 cups boiling water,<br>1 tsp orange pekoe tea,<br>1 can (12 ounces) frozen lemonade concentrate thawed,<br>1 quart chilled sparkling water,<br>Ice cubes.</p><p>Procedure:</p><p>Steep the tea in the rum for 24 hours, and remove. Make the sugar syrup by boiling 1 cup of sugar in 1/2 cup of water. When the syrup cools, add to the rum. It's ready to drink immediately.</p>"
+      },
+      {
+        "title": "Hot Spiced Afternoon Tea",
+        "desc": "<p>Ingredients:</p><p>4 pints water<br>1/2 level tsp. whole cloves<br>1/2 a stick of cinnamon<br>1 oz. Tea<br>4 oz. sugar <br>1/4 pint Orange Juice Or squash<br>Juice of 2 lemons<br>Cinnamon sticks to serve</p><p>Add the spices to the water and bring it to boil. Pour into the tea and allow to brew for 5 minutes. Stir, strain add the sugar and stir until dissolved. Add the fruit juices. To reheat before serving (if necessary) place over a low heat-do not simmer or boil. Serve with cinnamon sticks. Sufficient for 12 people.</p>"
+      },
+      {
+        "title": "Tea Fruit Cup",
+        "desc": "<p>Ingredients:</p><p>4 oz. sugar,<br>2 pints water,<br>1/4 pint strong fresh tea strained,<br>1/4 pint Fruit Syrup (e.g. rose hip),<br>1/4 pint orange squash,<br>1/4 pint lemon squash,<br>1/4 pint pineapple Squash,<br>1 small bottle lemonade,<br>12 fresh or canned cherries,<br>2 bananas sliced,<br>Ice</p><p>Procedure:</p><p>Boil the sugar and 1/4 pint water together for 5 minutes. Add the cooled tea, the rest of the water, the fruit syrup and fruit squashes. Chill and when ready to serve add the other ingredients and the ice. Sufficient for 12 people.</p>"
+      },
+      {
+        "title": "Long Island Iced Tea",
+        "desc": "<p>Ingredients:</p><p>4 Assam tea bags,<br>4 cups of water, 1½ cups of chilled syrup,<br>2 teaspoons raspberry vinegar,<br>1 lime, cut into 4 wedges,<br><br><strong style=\"font-size:11px;\">For Syrup:</strong><br> 1¼ cups of water,<br>1 1/3 cup of sugar honey</p><p><strong>To prepare the syrup:</strong><br> In a saucepan bring sugar and water to a boil, stirring it continuously until sugar is completely dissolved. Let the syrup cool and chill, keeping it covered. Syrup may be made 2 weeks ahead and chilled. This makes about 2 cups.</p><p>To prepare the tea:</strong><br> Put tea bags in a heatproof pitcher. Bring water to a boil and put in the tea bags. Steep tea for 5 minutes and remove the tea bags. Cool the tea and chill it for about an hour until cold. Stir in the syrup and vinegar. Squeeze lime wedges into tea and add wedges. Serve tea over ice in tall glasses.</p>"
+      },
+      {
+        "title": "Ginger - Green Tea Sparkler",
+        "desc": "<p>Ingredients:</p><p> 1 1/3 cups Green tea concentrate,<br>1/4 cup finely chopped crystallised ginger,<br>2 2/3 cups chilled ginger ale,<br>Ice cubes</p><p>Procedure:</p><p>Combine ginger and tea concentrate while still hot and refrigerate for at least three hours. Strain and discard ginger. Pour concentrate and ginger ale into ice filled glasses. Makes 4 servings.</p>"
+      },
+      {
+        "title": "Herbal Spiced Tea",
+        "desc": "<p>Ingredients:</p><p>6 tsps of Herbal Tea,<br>2 cups apple juice concentrate,<br>2 oz. lemon juice concentrate,<br>1 lemon Makes 2 quarts (8 servings)</p><p>Procedure:</p><p>Boil 6 tsps of Herbal Tea in 4 cups (32 oz.) of cold water, apple juice and lemon juice. Heat and serve warm in mugs. Garnish with lemon.</p>"
+      },
+      {
+        "title": "Casablanca Tea Punch",
+        "desc": "<p>Ingredients:</p><p>4 oz. of ice,<br>8 oz. Green Tea,<br>4 oz. tropical juice<span class=\"star\">*</span><br>1 oz. passion fruit syrup<br><br><span class=\"star\">*</span> Make your own tropical blend of juice with 1/3 pineapple juice, 2/3 orange juice and a splash of passion fruit syrup.</p><p>Procedure:</p><p>Combine ice, iced tea, tropical juice and passion fruit syrup in a cocktail shaker or a jar with a lid. Shake until cold and frothy. Pour into a tall iced tea glass. Garnish as desired.</p>"
+      },
+      {
+        "title": "Tea Punch",
+        "desc": "<p>Ingredients:</p><p>1/2 pint strong tea,<br>6 oz. sugar,<br>1/2 pint orange squash,<br>4 tbsps. lemon juice,<br>2 small bottles of ginger ale,<br>1 large bottle lemonade,<br>1 sliced orange.</p><p>Procedure:</p><p>Put the hot tea in a bowl, add the sugar and stir until dissolved. Add the orange squash and lemon juice and strain. Chill. Just before serving mix in the ginger ale, lemonade and orange slices. Sufficient for 12 people.</p>"
+      },
+      {
+        "title": "Kismis Delight",
+        "desc": "<p>Ingredients:</p><p>Green or Black grapes, ice, honey, lemon juice.</p><p>Procedure:</p><p>Extract the juice from the grapes( preferably black). Fill a glass with ice and add the juice of the grapes and fill half the glass with it. Add a teaspoon each of honey and lemon juice. Add ice tea to this mixture and fill the glass to its brim. Stir well and add sugar(if required). Serve with fresh grapes( preferably green). Sufficient for 12 people.</p>"
+      },
+      {
+        "title": "Cocoa Tea",
+        "desc": "<p>Ingredients:</p><p>Milk, ground clove, cinnamon, cardamom, cocoa, vanilla ice cream.</p><p>Procedure:</p><p>Boil one teaspoon of tea in the teapot for five to seven minutes. Strain and add milk, ground clove, cinnamon, cardamom and cocoa. Simmer for 2 to 3 minutes. Warm the tea cup/mug in advance. Add a dollop of vanilla ice-cream. Pour in the hot tea already prepared in the teapot. Add the cocoa powder as dust on the prepared tea. Serve with snacks on a hot afternoon. Sufficient for 12 people.</p>"
+      }
+    ],
+    "snacks": [
+      {
+        "title": "Herbal Tea Mango Ice Cream:",
+        "desc": "<p>Ingredients:</p><p>4 tsps Pengaree tea,<br>2/3 cup fresh,<br>cold water,<br>4 green mangoes (each mango should be very firm, hard),<br>2/3 cup sugar (a little extra sugar may be needed),<br>2 cups heavy cream,<br>3 tablespoons non-fat dry milk</p><p>Procedure:</p><p>In a large saucepan bring water to a rapid boil; remove from heat. Immediately add tea. Steep for 5 to 6 minutes, strain the tea. Peel the mangoes while the tea is steeping. Cut the flesh away from the seeds, dice the fruit. Sprinkle sugar over the fruit. Cook over medium heat, stirring often, for 10 to 12 minutes, or until the fruit is soft. Taste, add more sugar if necessary. Remove from heat. Mash fruit with a fork until a coarse puree is obtained; drain off excess liquid. Allow to cool. Whip heavy cream and dry milk in a bowl until stiff peaks form. Gently stir mango puree into the whipped cream. Spoon into a freezer-safe plastic container and freeze. Makes about 5 cups.</p>"
+      },
+      {
+        "title": "Green Tea Dessert Sauce",
+        "desc": "<p>Ingredients:</p><p>4 tsps Green Tea,<br>1 cup fresh, cold water,<br>4 tablespoons (1/2 stick) butter, in small pieces<br>2 tablespoons sugar<br>2 tablespoons light brown sugar, well packed</p><p>Procedure:</p><p>In a small saucepan, bring water to a rapid boil; remove from heat. Add tea; let steep for 5 minutes. Strain. Add butter to the tea and heat over low heat until the butter is melted. Stir in sugar and brown sugar, mixing well. Bring just to a boil, stirring constantly. Allow to simmer for two minutes. Serve over ice cream, diced fresh fruit, or pound cake. (1 1/2 cups)</p>"
+      },
+      {
+        "title": "Blueberry Bars",
+        "desc": "<p>Crust ingredients:</p><p>1 cup flour, 1/2 cup butter (softened), 1/2 cup confectioner´s sugar</p><p>Procedure:</p><p>Preheat oven to 350 degrees F. Blend all ingredients and press into an 8 or 9-inch square pan. Bake for 15 minutes or until edges are just beginning to turn golden.</p><p>Filling ingredients:</p><p>A cup sour cream, 1 egg, beaten, 1 cup sugar, 1 teaspoon vanilla, 1/2 teaspoon almond extract, 1/4 teaspoon salt, 2 tablespoons flour, 2 cups fresh blueberries</p><p>Procedure:</p><p>Combine sour cream, egg, sugar, vanilla, almond extract, and salt. Beat until smooth. Fold in blueberries. Pour into shell and bake at 400 degrees F. for 25 minutes.</p><p>Topping ingredients:</p><p>3 tablespoons butter (softened), 3 tablespoons flour, 3 tablespoons sugar, 1/4 cup sliced almonds</p><p>Procedure:</p><p>Combine all ingredients. Sprinkle over pie and bake 10 additional minutes. Chill before serving.</p>"
+      },
+      {
+        "title": "Tea Jelly",
+        "desc": "<p>Ingredients:</p><p>2 lemons,<br>1 pkt. lemon jelly<br>3/4 pint (approx.) freshly brewed tea,<br>Whipped cream to decorate</p><p>Procedure:</p><p>Grate the skin of the lemons finely. Place the jelly in a measure and make up to 1 pint with freshly brewed tea. Stir until dissolved, then cool. When it is slightly thickened stir in the grated lemon peel and pour into a wet 1-pint mould or into individual moulds. Decorate with cream.</p>"
+      },
+      {
+        "title": "Cornish Tea Cakes",
+        "desc": "<p>Ingredients:</p><p>8 oz self-raising flour,<br>4 oz lard or margarine,<br>4 oz currants,<br>1/2 tsp mixed spice,<br>1 oz candied peel,<br>2 ozs sugar,<br>1/2 pt milk,<br>(beaten egg to glaze)</p><p>Procedure:</p><p>Rub the fat in the flour, then add the currants, sugar, peel and mixed spice. Add sufficient milk to make into a soft dough. Roll out to half an inch thickness and cut to shape with a round cutter. Brush with beaten egg to glaze and bake at about 350F for 10 to 15 minutes. (Serves 4)</p>"
+      },
+      {
+        "title": "Tea Ice Cream",
+        "desc": "<p>Ingredients:</p><p>(For making 2 lbs. of Tea Ice Cream)<br>Dry tea (with good flavour) 2 oz,<br>Refined sugar 1 lb,<br>Arrowroot or cornflour 1 oz,<br>Fresh milk 2 lbs,<br>Water 10 oz</p><p>Procedure:</p><p><strong>1.</strong> Heat water and remove quickly from fire when boiling. Rinse out the teapot with hot water and put in tea leaves. Pour boiling water into the teapot. Infuse for 8 to10 minutes. Strain off infusion and keep aside.<br><br><strong>2.</strong> Boil the milk. Next, blend the sugar with the arrowroot (or cornflour) thoroughly and add to the boiled milk. Let mixture simmer for about10 minutes and stir continuously to avoid lumps. Remove from fire, add tea infusion, stir and freeze.</p>"
+      }
+    ]
+  }
+}

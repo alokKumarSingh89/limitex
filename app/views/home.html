@@ -1,0 +1,17 @@
+<section class="white">
+    <div class="row list-group">
+       <div class="item  col-xs-4 col-lg-4 grid-group-item" ng-repeat="item in company['home']">
+            <div class="thumbnail">
+                <img class="group list-group-image img-style" ng-src="{{item.imgUrl}}" alt="">
+                <div class="caption">
+                    <h5 class="group inner list-group-item-heading">
+                        <i class="fa fa-industry company-icon-color" aria-hidden="true"></i>  <a ui-sref="{{item.url}}" class="a-captilize">{{item.title}} </a>
+                    </h5>
+                    <p class="group inner list-group-item-text">
+                        <span ng-bind-html="item.desc"></span>...<a ui-sref="{{item.url}}">more</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

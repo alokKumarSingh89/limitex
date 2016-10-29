@@ -1,0 +1,14 @@
+<div>
+    <div class="row">
+    	<ul class="nav nav-pills nav-justified cust-tab">
+            <li ng-class="{'active':state.current.name == 'tea.varieties.ctc'}"><a ui-sref="tea.varieties.ctc">CTC Tea</a></li>
+            <li ng-class="{'active':state.current.name == 'tea.varieties.orthodox'}"><a ui-sref="tea.varieties.orthodox">Orthodox Tea</a></li>
+            <li ng-class="{'active':state.current.name == 'tea.varieties.nargis'}"><a ui-sref="tea.varieties.nargis">Nargis Tea</a></li>
+            <li ng-class="{'active':state.current.name == 'tea.varieties.royal'}"><a ui-sref="tea.varieties.royal">Royal Tea</a></li>
+        </ul>
+    </div>
+    <div class="row">
+        <div ui-view>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,29 @@
+{
+    "home": [{
+        "title": "THE COMPANY GROWTH",
+        "imgUrl": "images/main/growth_img.jpg",
+        "url":"main.growth",
+        "desc": "Limtex, A Group of Companies, is a fast growing corporate body has entered into the international arena as a corporate giant"
+    }, {
+        "title": "THE PRIME SECTORS",
+        "imgUrl": "images/main/prime_sectors.jpg",
+        "url":"main.group",
+        "desc": "Moving with the times and diversifying in the field of Information Technology and systems we intend to provide our customers with business solutions that"
+    }, {
+        "title": "UPCOMING PROJECTS",
+        "imgUrl": "images/main/projeft.jpg",
+        "url":"main",
+        "desc": "<img src=\"images/main/nargis.jpg\" class=\"img-style\">"
+    }, {
+        "title": "THE MEN BEHIND",
+        "imgUrl": "images/main/men_behind.jpg",
+        "url":"main.men_behind",
+        "desc": "The man behind the gigantic success of Limtex is Mr.Gopal Poddar - the Director.A versatile man of many repute has brought a revolution in the to days world.He is supported by his two brothers who"
+    }],
+
+    "group":[
+        "LIMTEX (INDIA) LIMITED","LIMTEX AGRI UDYOG LTD.","LIMTEX TEA & INDUSTRIES LTD.","LIMTEX INDUSTRIES LTD."
+        ,"LIMTEX INFOTECH LTD.","SUJALI TEA & INDUSTRIES LTD.","SATYANARAYAN TEA CO. PVT. LTD.","GREEN CARD DEVELOPERS PVT. LTD.","PODDAR EXPORTS"
+    ]
+
+}

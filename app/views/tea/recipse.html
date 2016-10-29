@@ -1,0 +1,46 @@
+<section class="white">
+    <div class="row">
+        <div class="col-md-12">
+            <h3 class="text-primary text-uppercase">Tea Recipse</h3>
+            <span class="line-sep-blue"></span>
+            <ul class="list-unstyled teafact col-md-6">
+            	<li><strong>Tea</strong></li>
+                <li ng-repeat="item in tea['recipse'].tea">
+                    <i class="fa fa-pied-piper tea-color" aria-hidden="true"></i>
+                    <span data-toggle="modal" data-target="{{'#mytea'+($index+1)}}">{{item.title}}</span>
+                    <div class="modal fade" id="{{'mytea'+($index+1)}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header custom-style">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" class="close-btn">&times;</span></button>
+                                    <h4 class="modal-title" id="myModalLabel">{{item.title}}</h4>
+                                </div>
+                                <div class="modal-body" ng-bind-html="item.desc">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+            <ul class="list-unstyled teafact col-md-6">
+            	<li><strong>Snacks</strong></li>
+                <li ng-repeat="item in tea['recipse'].snacks">
+                    <i class="fa fa-pied-piper tea-color" aria-hidden="true"></i>
+                    <span data-toggle="modal" data-target="{{'#mysnacks'+($index+1)}}">{{item.title}}</span>
+                    <div class="modal fade" id="{{'mysnacks'+($index+1)}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header custom-style">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" class="close-btn">&times;</span></button>
+                                    <h4 class="modal-title" id="myModalLabel">{{item.title}}</h4>
+                                </div>
+                                <div class="modal-body" ng-bind-html="item.desc">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>

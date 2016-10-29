@@ -1,0 +1,28 @@
+<section class="white">
+    <div class="row">
+        <div class="col-md-12">
+            <h3 class="text-primary text-uppercase">Tea Facts</h3>
+            <span class="line-sep-blue"></span>
+            <span><strong>Click on the questions listed below and get the answer.</strong></span>
+            <ul class="list-unstyled teafact">
+                <li ng-repeat="item in tea['teafact']">
+                    <i class="fa fa-pied-piper tea-color" aria-hidden="true"></i>
+                    <span data-toggle="modal" data-target="{{'#myModal'+($index+1)}}">{{item.title}}</span>
+                    <div class="modal fade" id="{{'myModal'+($index+1)}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header custom-style">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" class="close-btn">&times;</span></button>
+                                    <h4 class="modal-title" id="myModalLabel">{{item.title}}</h4>
+                                </div>
+                                <div class="modal-body" ng-bind-html="item.desc">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- Modal -->
+</section>

@@ -1,0 +1,103 @@
+<div class="container block-bg">
+    <div class="row">
+        <div class="col-md-3">
+            <a href="/" title="Tea Wala">
+            <img src="images/logo.png" class="logo-size">
+            </a>
+            <hr>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="list-group">
+                        <a ui-sref="biscuit.biscuit_page" class="list-group-item biscut-color"><i class="fa fa-coffee" aria-hidden="true"></i>-THE BISCUIT PAGE</a>
+                        <a ui-sref="biscuit.quality" class="list-group-item biscut-color"><i class="fa fa-coffee" aria-hidden="true"></i>-QUALITY</a>
+                        <a ui-sref="biscuit.hygiene" class="list-group-item biscut-color"><i class="fa fa-coffee" aria-hidden="true"></i>-HYGIENE</a>
+                        <a ui-sref="biscuit.factory" class="list-group-item biscut-color"><i class="fa fa-coffee" aria-hidden="true"></i>-FACTORY</a>
+                        <a ui-sref="biscuit.product" class="list-group-item biscut-color"><i class="fa fa-coffee" aria-hidden="true"></i>-PRODUCTS</a>
+                    </div>
+                </div>
+            </div>
+            <img src="images/biscuit/biscuit_main.jpg" style="width:260px;height:200px; border-radius: 5px">
+            <br>
+            <br>
+            <img src="images/biscuit/biscuit_main1.jpg" style="width:260px;height:200px; border-radius: 5px">
+        </div>
+        <div class="col-md-9">
+            <div class="row carousel-holder">
+                <div class="col-md-12">
+                    <div id="biscuit" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <img class="slide-image" src="images/biscuit/biscuit5.png" alt="" style="width:850px;height:400px;">
+                            </div>
+                            <div class="item">
+                                <img class="slide-image" src="images/biscuit/biscuit4.jpg" alt="" style="width:850px;height:400px;">
+                            </div>
+                            <div class="item">
+                                <img class="slide-image" src="images/biscuit/biscuit.jpg" alt="" style="width:850px;height:400px;">
+                            </div>
+                        </div>
+                        <a class="left carousel-control" href="#biscuit" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left"></span>
+                        </a>
+                        <a class="right carousel-control" href="#biscuit" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right"></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <div ng-show="state.current.name=='biscuit'">
+                <div class="row">
+                <div class="col-sm-5 col-lg-5 col-md-5">
+                    <div class="thumbnail">
+                        <img src="images/biscuit/projeft.jpg" alt="" class="group list-group-image img-style">
+                        <div class="caption">
+                            <h4><a href="#">THE BISCUIT STORY</a>
+                                </h4>
+                            <p>Under the leadership of Mr. Gopal Poddar (Chairman & M.D.), Mr. Shankar Poddar (Director) & Mr. Subhas Poddar ( Director), along with a professional team.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-5 col-lg-5 col-md-5 col-md-offset-2">
+                    <div class="thumbnail">
+                        <img src="images/biscuit/prime_sectors.jpg" alt="" class="group list-group-image img-style">
+                        <div class="caption">
+                            <h4><a href="#">THE TEA FACILITY</a>
+                                </h4>
+                            <p>Limtex offers different varieties of biscuits like Super Marie, Morning Marie, Classic Marie, Makhan Bhog, Milk Maza.</p>
+                        </div>
+                    </div>
+                </div>             
+                </div>
+                <div class="row">
+                <div class="col-sm-5 col-lg-5 col-md-5">
+                    <div class="thumbnail">
+                        <img src="images/biscuit/growth_img.jpg" alt="" class="group list-group-image img-style">
+                        <div class="caption">
+                            <h4><a href="#">THE BISCUIT PRODUCTION</a>
+                                </h4>
+                            <p>To the conditions and manner in which biscuits are handled. To this end, all our staff has been instructed in Basic Food Hygiene.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-5 col-lg-5 col-md-5 col-md-offset-2">
+                    <div class="thumbnail">
+                        <img src="images/biscuit/men_behind.jpg" alt="" class="group list-group-image img-style">
+                        <div class="caption">
+                            <h4><a href="#">THE BISCUIT FACILITIES</a>
+                                </h4>
+                            <p>Our "biscuits" are made using the best of techniques.Hygiene is kept the greatest prioriry during produc tion.We have the best state of art</p>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+            <div ui-view></div>
+        </div>
+    </div>
+</div>

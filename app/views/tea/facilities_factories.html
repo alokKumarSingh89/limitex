@@ -1,0 +1,22 @@
+<section class="white">
+    <div class="row">
+        <div class="col-md-6" ng-repeat="item in tea['factory']">
+            <ul class="list-unstyled">
+                <li>
+                    <strong>{{$index+1}}) {{item.compy}}</strong>
+                    <div class="row col-sm-offset-1" ng-repeat="item_child in item.address">
+                        <div class="col-md-6">
+                            {{item_child.key}}
+                        </div>
+                        <div class="col-md-5">
+                            :{{item_child.value}}
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+
+	

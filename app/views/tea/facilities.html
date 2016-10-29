@@ -1,0 +1,13 @@
+<section class="white">
+    <div class="row">
+        <ul class="nav nav-pills nav-justified cust-tab">
+            <li ng-class="{'active':state.current.name == 'tea.facilities.estate'}"><a ui-sref="tea.facilities.estate">Tea Estate</a></li>
+            <li ng-class="{'active':state.current.name == 'tea.facilities.factories'}"><a ui-sref="tea.facilities.factories">Tea Factories</a></li>
+            <li ng-class="{'active':state.current.name == 'tea.facilities.garden'}"><a ui-sref="tea.facilities.garden">Garden Care</a></li>
+        </ul>
+    </div>
+    <div class="row">
+        <div ui-view></div>
+    </div>
+</section>
+
